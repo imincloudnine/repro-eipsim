@@ -1,4 +1,4 @@
-# EIPSim
+# EIPSim (README FROM SC)
 
 EIPSim is a flexible simulator for cloud IP address pools. It allows simulation using both synthetic client behaviors (drawn from random distributions) and real-world traces (e.g., from Google's `clusterdata-2019` dataset).
 
